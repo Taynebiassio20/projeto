@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <title>Colégio Estadual Pedro Marcondes Ribas</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+
+    <body>
+        <img id="banner" src="banner.jpg">
+
+       <div class="principal">
+        
+    <h1>Minha História em Cepemar</h1>
+
+    <p> <strong>Diretores</strong<p></p>
+
+    <p id="missao"><em>Estudo na escola Pedro Marcondes Ribas localizada em Av.do cerne 1687 em Novo Barro Preto, <Ventania-pr></Ventania-pr><strong>"foi fundada em abril de 1993.</strong>.</em></p>
+
+    <p>Começei a estudar aqui em  2018 completanto meus 11 anos de idade, no sexto ano foi tudo muito divertido, brincavamos em barranco, ganhavamos árvores para plantar 
+        em nossa casa no dia da árvore.Os anos se passaram muito rápido, eu pisquei e já estou no primeiro ano do ensino médio, eu gosto de vir a escola mas confesso que não gosto muito
+    de estudar, não estou preparada para quando eu terminar o terceiro ano.</p>
+</div>
+<ul>
+    <Li><a href="Localização">home</a></a></Li>
+    <Li<a href="MEUS PROFESSORES">princip
+    <a href="contato.html">contato</a>
+
+
+
+
+</ul>
+
+<div class="beneficios">
+    <h2>Benefícios</h2>
+
+    <ul>
+        <li class="itens">Thaeme Bueno de Araújo</li>
+        <li class="itens">Professor: Ronaldo Barbosa de Oliveira.</li>
+        <li class="itens">VENTANIA-PR</li>
+        <li class="itens">30/11/2022.</li>
+    
+    </ul>
+
+
+    <img src="beneficios.jpg" class="imagembeneficios">
+</div>
